@@ -1,5 +1,5 @@
 # Tuples-Hackerank
-Hackerank tuples challenge
+### Hackerank tuples challenge
 
 Given an integer, *n* , and *n* space-separated integers as input, create a tuple, *t* , of those *n* integers. 
 
