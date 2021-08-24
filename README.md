@@ -16,10 +16,10 @@ The second line contains n space-separated integers describing the elements in t
 
 Print the result of hash(t).
 
-###### Sample Input 0\
+###### Sample Input 0
 2\
 1 2
 
 
-###### Sample Output 0\
+###### Sample Output 0
 3713081631934410656
