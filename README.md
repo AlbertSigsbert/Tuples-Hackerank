@@ -16,7 +16,7 @@ Output Format
 
 Print the result of hash(t).
 
-Sample Input 0
+Sample Input 0\
 2\
 1 2
 
